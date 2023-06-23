@@ -13,6 +13,14 @@
     </a>
 </p>
 
+<details>
+
+<p align="center">
+  <a href="https://github.com/KulikDM">
+    <img src="https://komarev.com/ghpvc/?username=KulikDM&color=blue&style=flat)" />
+  </a>
+</p>
+    
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/KulikDM)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/KulikDM)
@@ -36,7 +44,9 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/KulikDM)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/KulikDM)
 
-<details>
+
+<hr style="border: none; border-top: 2px dotted black" />
+
 <p align="center">
   <a href="https://github.com/KulikDM">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KulikDM&theme=transparent" />
@@ -49,21 +59,4 @@
   </a>
 </p>
 </details>
-
-<p align="center">
-  <a href="https://github.com/KulikDM">
-    <img src="https://komarev.com/ghpvc/?username=KulikDM&color=blue&style=flat)" />
-  </a>
-</p>
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
