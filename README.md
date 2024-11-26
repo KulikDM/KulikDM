@@ -2,8 +2,8 @@
 
 <p align="center">
     <i>
-        I'm Daniel, author of PyThresh.<br>
-        Currently working as a ML Developer and also completing my MSc in Astrophysics.<br>
+        I'm Daniel, author of PyThresh & Muzlin.<br>
+        MSc in Astrophysics and currently working as a ML Developer.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/daniel-kulik-148256223/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
